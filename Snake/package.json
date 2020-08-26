@@ -1,0 +1,24 @@
+{
+  "name": "memory-game",
+  "version": "1.0.0",
+  "description": "A retro grid-based game in vanilla JavaScript, HTML and CSS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubowania/memory-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubowania/memory-game/issues"
+  },
+  "homepage": "https://github.com/kubowania/memory-game#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {}
+}

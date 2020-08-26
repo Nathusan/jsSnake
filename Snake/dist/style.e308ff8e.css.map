@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.e308ff8e.css","sourceRoot":"..","sourcesContent":[".grid {\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  width: 400px;\r\n  height: 300px;\r\n}\r\n"]}
